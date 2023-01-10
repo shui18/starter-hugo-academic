@@ -1,13 +1,13 @@
 ---
-title: "An example journal article"
-authors:
+title: "An extended discrete gradient formula for oscillatory Hamiltonian systems"
+authors: 
 - admin
-- Robert Ford
+- W. Shi and X. Wu
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2013"
+doi: "10.1088/1751-8113/46/16/165203"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
