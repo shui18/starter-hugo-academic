@@ -53,9 +53,9 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://www.scopus.com/authid/detail.uri?authorId=55729581500
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
