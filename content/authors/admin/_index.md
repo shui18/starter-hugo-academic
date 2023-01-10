@@ -1,34 +1,33 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Kai Liu 刘凯
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Kai
+last_name: Liu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Associate professor of Nanjing Audit University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Nanjing Audit University
+    url: https://www.nau.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Structure-Preserving Numerical Algorithm
+
 
 # Education to show in About widget
 education:
