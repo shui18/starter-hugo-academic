@@ -1,5 +1,5 @@
 ---
-title: teaching
+title: teachings
 cms_exclude: true
 
 # View.
