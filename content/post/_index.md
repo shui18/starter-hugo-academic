@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Undergraduate Teaching
 cms_exclude: true
 
 # View.
