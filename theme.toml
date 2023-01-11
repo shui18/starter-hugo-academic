@@ -30,16 +30,17 @@ tags = ["widgets",
         "starter",
         "modern",
         "one page",
+        "teaching",
         "customizable",
         "technical",
         "product",
         "slide"
         ]
 features = ["page builder", "widgets", "themes", "search", "research publication system", "filterable portfolio",
-            "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
+            "blog", "teaching","create courses", "talks", "events", "slides", "gallery", "contact form"]
 
 [author]
-  name = "George Cushen"
+  name = "Kai Liu"
   homepage = "https://georgecushen.com"
 
 # If porting an existing theme
