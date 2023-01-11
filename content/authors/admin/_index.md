@@ -73,5 +73,5 @@ email: 'laukai520@163.com'
 highlight_name: true
 ---
 
-Kai Liu is an associate professor of Nanjing Audit University. His research interests include structure-preserving numerical algorithm of differential equations.
+Kai Liu is an associate professor at Nanjing Audit University at the school of Statistics and Data Science. His research interests include structure-preserving numerical algorithms of differential equations.
 {style="text-align: justify;"}
