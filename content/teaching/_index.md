@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: teaching
 cms_exclude: true
 
 # View.
