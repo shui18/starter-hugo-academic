@@ -38,7 +38,7 @@ sections:
               * Modelling
               * Deploying
         - title: Associate Professor
-          company:School of Applied Mathematics, Nanjing University of Finance and Economics 
+          company: School of Applied Mathematics, Nanjing University of Finance and Economics 
           company_url: ''
           company_logo: org-x
           location: California
@@ -87,9 +87,9 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: posts
+    id: teaching
     content:
-      title: Recent Posts
+      title: Undergraduate Teaching
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -97,7 +97,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post
+          - teaching
         author: ""
         category: ""
         tag: ""
