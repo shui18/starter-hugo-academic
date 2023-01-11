@@ -22,7 +22,7 @@ organizations:
     url: https://www.nau.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests focus on geometric numerical integration.
 
 # Interests to show in About widget
 interests:
@@ -73,7 +73,7 @@ email: 'laukai520@163.com'
 highlight_name: true
 ---
 
-I am an associate professor at Nanjing Audit University at the school of Statistics and Data Science. I received a PhD in Computational Mathematics from TNanjing University, a MEng in Applied Mathematics and a BSc in Mathematics and Applied Mathematics from China University of Petroleum (East China). 
+I am an associate professor at Nanjing Audit University at the school of Statistics and Data Science. I received a PhD in Computational Mathematics from Nanjing University, a MEng in Applied Mathematics and a BSc in Mathematics and Applied Mathematics from China University of Petroleum (East China). 
 My current research interests focus on geometric numerical integration. Specifically, I am interested in structure-preserving numerical algorithms of differential equations. I have also worked on iterative techniques for solving problems in numerical linear algebra.
 #I am affiliated with the NSF Institute for Foundations of Machine Learning.
 {style="text-align: justify;"}
