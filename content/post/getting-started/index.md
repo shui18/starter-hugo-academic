@@ -1,6 +1,6 @@
 ---
-title: Two high-order energy-preserving and symmetric Gauss collocation integrators for solving the hyperbolic Hamiltonian systems
-subtitle: In this paper, we first derive the energy-preserving collocation integrator for solving the hyperbolic Hamiltonian systems. Then, two concrete high-order energy-preserving and symmetric integrators are presented by choosing the collocation nodes as two and three Gauss–Legendre points, respectively. The convergence and the symmetry of the constructed energy-preserving integrators are rigorously analysed. Numerical results verify the energy conservation property and the accuracy of the proposed integrators.
+title: Numerical Analysis 
+subtitle: Undergraduate Teaching
 
 # Summary for listings and search engines
 summary: In this paper, we first derive the energy-preserving collocation integrator for solving the hyperbolic Hamiltonian systems. Then, two concrete high-order energy-preserving and symmetric integrators are presented by choosing the collocation nodes as two and three Gauss–Legendre points, respectively. The convergence and the symmetry of the constructed energy-preserving integrators are rigorously analysed. Numerical results verify the energy conservation property and the accuracy of the proposed integrators.
