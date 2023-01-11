@@ -28,22 +28,25 @@ sections:
           company: School of Statistics and Data Science, Nanjing Audit University
           company_url: ''
           company_logo: org-gc
-          location: California
+          location: NanJing
           date_start: '2021-09'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
         - title: Associate Professor
           company: School of Applied Mathematics, Nanjing University of Finance and Economics 
           company_url: ''
           company_logo: org-x
-          location: California
+          location: NanJing
           date_start: '2019-06'
           date_end: '2021-08'
+          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Lecturer
+          company: School of Applied Mathematics, Nanjing University of Finance and Economics 
+          company_url: ''
+          company_logo: org-x
+          location: NanJing
+          date_start: '2015-06'
+          date_end: '2019-05'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
