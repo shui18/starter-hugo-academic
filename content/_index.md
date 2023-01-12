@@ -12,22 +12,6 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
   - block: experience
     content:
       title: Experience
@@ -43,7 +27,7 @@ sections:
         - title: Associate Professor
           company: Nanjing Audit University
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-NAU
           location: Nanjing
           date_start: '2021-09'
           date_end: ''
@@ -51,7 +35,7 @@ sections:
         - title: Associate Professor
           company: Nanjing University of Finance and Economics
           company_url: ''
-          company_logo: org-x
+          company_logo: org-NUFE
           location: Nanjing
           date_start: '2019-06'
           date_end: '2021-08'
