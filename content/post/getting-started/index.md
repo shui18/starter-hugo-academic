@@ -30,7 +30,6 @@ image:
 
 authors:
   - admin
-  - 刘凯
 
 tags:
   - Academic
