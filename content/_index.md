@@ -47,12 +47,7 @@ sections:
           location: Nanjing
           date_start: '2021-09'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description: ''
         - title: Associate Professor
           company: Nanjing University of Finance and Economics
           company_url: ''
