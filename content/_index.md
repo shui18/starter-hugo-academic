@@ -27,7 +27,7 @@ sections:
         - title: Associate Professor
           company: Nanjing Audit University
           company_url: ''
-#          company_logo: org-NAU
+          company_logo: ''
           location: Nanjing
           date_start: '2021-09'
           date_end: ''
@@ -35,7 +35,7 @@ sections:
         - title: Associate Professor
           company: Nanjing University of Finance and Economics
           company_url: ''
-#          company_logo: org-NUFE
+          company_logo: ''
           location: Nanjing
           date_start: '2019-06'
           date_end: '2021-08'
@@ -201,7 +201,7 @@ sections:
         postcode: '211815'
 #        country: United States
 #        country_code: US
-      directions: 位育楼307
+      directions: 307
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
