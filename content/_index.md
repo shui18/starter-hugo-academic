@@ -80,7 +80,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Full list of publications
       filters:
         folders:
           - project
@@ -94,9 +94,9 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
+        - name: Journal Papers
           tag: Deep Learning
-        - name: Other
+        - name: Books Chapters
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
