@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kai Liu 刘凯
+title: Kai Liu 
 
 # Full name (for SEO)
 first_name: Kai
