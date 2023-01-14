@@ -42,7 +42,7 @@ categories:
 
 # Overview
 
-#	This course covers error analysis, floating-point arithmetic, polynomial interpolation, and numerical differentiation and integration.
+	This course covers error analysis, floating-point arithmetic, polynomial interpolation, and numerical differentiation and integration.
 
 ## Description
 
