@@ -29,7 +29,7 @@ sections:
           company_url: ''
           company_logo: ''
           location: Nanjing
-          date_start: '2021-09'
+          date_start: '2021-09-01'
           date_end: ''
           description: ''
         - title: Associate Professor
@@ -37,9 +37,9 @@ sections:
           company_url: ''
           company_logo: ''
           location: Nanjing
-          date_start: '2019-06'
-          date_end: '2021-08'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_start: '2019-06-01'
+          date_end: '2021-08-01'
+          description: ''
     design:
       columns: '2'
   - block: accomplishments
