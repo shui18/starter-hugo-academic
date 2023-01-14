@@ -104,14 +104,7 @@ sections:
       view: citation
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+  
   - block: collection
     id: featured
     content:
@@ -151,11 +144,14 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: tag_cloud
+  - block: markdown
     content:
-      title: Popular Topics
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo" >}}
     design:
-      columns: '2'
+      columns: '1'
   - block: contact
     id: contact
     content:
