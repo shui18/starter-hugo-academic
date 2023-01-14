@@ -1,5 +1,5 @@
 ---
-title: "Stability Analysis for Explicit ERKN Methods Solving General Second-Order Oscillatory Systems"
+title: "A new SOR-type iteration method for solving linear systems"
 authors:
 - admin
 - Jie Yang and Wei Shi
