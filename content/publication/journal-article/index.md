@@ -1,11 +1,11 @@
 ---
-title: "An example journal article"
+title: "Stability Analysis for Explicit ERKN Methods Solving General Second-Order Oscillatory Systems"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- Ting Fu and Wei Shi
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
@@ -22,7 +22,7 @@ publication_types: ["2"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In order to solve the general multidimensional perturbed oscillatory system $y^{\prime \prime}+\Omega y=$ $f\left(y, y^{\prime}\right)$ with $K \in \mathbb{R}^{d \times d}$, the order conditions for the ERKN (extended RungeKutta-Nyström) methods and some effective ERKN methods were presented in the literature. These methods integrate exactly the multidimensional unperturbed oscillator $y^{\prime \prime}+\Omega y=0$. In this paper, we analyze the stability of ERKN methods for general oscillatory second-order initial value problems whose right-hand-side functions depend on both $y$ and $y^{\prime}$. Based on the linear test model $y^{\prime \prime}(t)+\omega^2 y(t)+\mu y^{\prime}(t)=$ 0 with $\mu<2 \omega$, further discussion and analysis on the linear stability of ERKN methods for general oscillatory problems are presented. A new conception of $\alpha$-stability region is proposed to investigate how well the numerical methods respect the damping rate of the general oscillatory systems. It gains more insight to the numerical methods when applied to the systems involving $y^{\prime}$. Numerical experiments are carried out to show the significance of the theory.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
