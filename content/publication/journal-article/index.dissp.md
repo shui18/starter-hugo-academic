@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://sci-hub.se/10.1016/j.apnum.2021.08.001
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -42,7 +42,8 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-pdf = A dissipation-preserving scheme for damped oscillatory Hamiltonian systems based on splitting
+
+pdf = "A dissipation-preserving scheme for damped oscillatory Hamiltonian systems based on splitting"
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
