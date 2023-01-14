@@ -51,7 +51,7 @@ sections:
     design:
       columns: '2'  
   - block: collection
-    id: posts
+    id: teaching
     content:
       title: Undergraduate Teaching
       subtitle: ''
