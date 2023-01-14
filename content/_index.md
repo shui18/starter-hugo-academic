@@ -95,9 +95,9 @@ sections:
         - name: All
           tag: '*'
         - name: Journal Papers
-          tag: Deep Learning
+          tag: Journal Papers
         - name: Books Chapters
-          tag: Demo
+          tag: Books Chapters
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
