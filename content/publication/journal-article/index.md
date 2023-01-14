@@ -6,8 +6,7 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-tags:
-  - Journal Papers
+
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
@@ -30,7 +29,7 @@ abstract: In order to solve the general multidimensional perturbed oscillatory s
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Journal Papers
 featured: false
 
 # links:
