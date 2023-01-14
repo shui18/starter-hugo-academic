@@ -26,7 +26,7 @@ abstract: In order to solve the general multidimensional perturbed oscillatory s
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
----
+
 title: "Stability Analysis for Explicit ERKN Methods Solving General Second-Order Oscillatory Systems"
 authors:
 - admin
