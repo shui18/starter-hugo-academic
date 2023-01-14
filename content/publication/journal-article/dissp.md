@@ -18,7 +18,7 @@ doi: "10.1007/s40840-021-01150-7"
 # publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Bull. Malays. Math. Sci. Soc.,44, 4143–4154*"
+publication: "*Appli. Numer. Math., 170 (2021) 242–254*"
 publication_short: ""
 
 abstract: In order to solve the general multidimensional perturbed oscillatory system $y^{\prime \prime}+\Omega y=$ $f\left(y, y^{\prime}\right)$ with $K \in \mathbb{R}^{d \times d}$, the order conditions for the ERKN (extended RungeKutta-Nyström) methods and some effective ERKN methods were presented in the literature. These methods integrate exactly the multidimensional unperturbed oscillator $y^{\prime \prime}+\Omega y=0$. In this paper, we analyze the stability of ERKN methods for general oscillatory second-order initial value problems whose right-hand-side functions depend on both $y$ and $y^{\prime}$. Based on the linear test model $y^{\prime \prime}(t)+\omega^2 y(t)+\mu y^{\prime}(t)=$ 0 with $\mu<2 \omega$, further discussion and analysis on the linear stability of ERKN methods for general oscillatory problems are presented. A new conception of $\alpha$-stability region is proposed to investigate how well the numerical methods respect the damping rate of the general oscillatory systems. It gains more insight to the numerical methods when applied to the systems involving $y^{\prime}$. Numerical experiments are carried out to show the significance of the theory.
