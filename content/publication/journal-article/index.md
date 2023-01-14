@@ -34,8 +34,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: https://sci-hub.se/10.1007/s40840-021-01150-7
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
