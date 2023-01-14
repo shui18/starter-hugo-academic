@@ -50,6 +50,8 @@ categories:
 
 This course covers error analysis, floating-point arithmetic, polynomial interpolation, and numerical differentiation and integration.
 
+
+
 ## Outcomes
 By the end of this course, students will know how to:
 - Write programs in MATLAB, including those that implement numerical algorithms
