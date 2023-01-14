@@ -27,10 +27,6 @@ abstract: In order to solve the general multidimensional perturbed oscillatory s
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 
-
-
-
-
 tags:
 - Journal Papers
 featured: false
@@ -38,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://sci-hub.se/10.1007/s40840-021-01150-7
+url_pdf: https://sci-hub.se/10.1016/j.apnum.2021.08.001
 url_code: ''
 url_dataset: ''
 url_poster: ''
