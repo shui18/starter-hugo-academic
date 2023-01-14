@@ -40,11 +40,11 @@ categories:
   - 教程
 ---
 
-## Overview
+# Overview
 
-	This course covers error analysis, floating-point arithmetic, polynomial interpolation, and numerical differentiation and integration.
+#	This course covers error analysis, floating-point arithmetic, polynomial interpolation, and numerical differentiation and integration.
 
-## Get Started
+## Description
 
 - 👉 [**Create a new site**](https://wowchemy.com/templates/)
 - 📚 [**Personalize your site**](https://wowchemy.com/docs/)
