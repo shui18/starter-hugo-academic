@@ -64,10 +64,10 @@ By the end of this course, students will know how to:
 
 
 
-### [Click here to Lectures]
+### [Click here link to Lectures](https://lxy.nau.edu.cn/_s26/2021/1029/c1039a87015/page.psp)
 
-**[]🦄✨**
-
+- **[test](https://lxy.nau.edu.cn/_s26/2021/1029/c1039a87015/page.psp)🦄✨**
+- test2[click here](https://lxy.nau.edu.cn/_s26/2021/1029/c1039a87015/page.psp)
 ## License
 
 Copyright 2016-present [George Cushen](https://georgecushen.com).
