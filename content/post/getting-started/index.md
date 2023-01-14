@@ -47,6 +47,12 @@ This course covers error analysis, floating-point arithmetic, polynomial interpo
 ## Outcomes
 By the end of this course, students will know how to:
 - Write programs in MATLAB, including those that implement numerical algorithms
+- Determine whether a mathematical problem is well- or ill-conditioned
+- Determine whether a mathematical expression is susceptible to issues with floating-point arithmetic, and if so, modify the expression to remedy such issues
+- Construct, update, and analyze the accuracy of a polynomial or piecewise polynomial that interpolates given data points
+- Construct and analyze the accuracy of numerical methods for approximating a derivative of a function at a given point, or a definite integral of a function over an interval
+- Use iteration to compute a solution of a nonlinear equation
+- Select the most effective numerical method for a given problem based on an understanding of the advantages and disadvantages of the various methods presented, and general principles of error analysis
 - 📚 [**Personalize your site**](https://wowchemy.com/docs/)
 - 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
 - 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
