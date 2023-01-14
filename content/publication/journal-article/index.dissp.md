@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "dissp"
+url_pdf: dissp
 url_code: ''
 url_dataset: ''
 url_poster: ''
