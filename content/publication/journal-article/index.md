@@ -6,6 +6,8 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
+tags:
+  - Journal Papers
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
