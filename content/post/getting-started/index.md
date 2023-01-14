@@ -1,6 +1,6 @@
 ---
 title: Numerical Analysis
-subtitle: 
+subtitle: This course covers error analysis, floating-point arithmetic, polynomial interpolation, and numerical differentiation and integration.
 
 # Summary for listings and search engines
 summary: 
@@ -40,6 +40,12 @@ categories:
   - 教程
 ---
 
+# Most recently taught
+- Spring 2022
+- Spring 2021
+- Fall 2019
+- Spring 2019
+- 
 ## Description
 
 This course covers error analysis, floating-point arithmetic, polynomial interpolation, and numerical differentiation and integration.
