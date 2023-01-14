@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: "A dissipation-preserving scheme for damped oscillatory Hamiltonian systems based on splitting"
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -41,7 +41,7 @@ url_slides: ''
 url_source: ''
 url_video : ''
 
-pdf : "A dissipation-preserving scheme for damped oscillatory Hamiltonian systems based on splitting"
+# pdf : "A dissipation-preserving scheme for damped oscillatory Hamiltonian systems based on splitting"
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
