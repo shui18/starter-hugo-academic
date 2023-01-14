@@ -40,6 +40,14 @@ sections:
           date_start: '2019-06-01'
           date_end: '2021-08-01'
           description: ''
+        - title: Lecturer
+          company: Nanjing University of Finance and Economics
+          company_url: ''
+          company_logo: ''
+          location: Nanjing
+          date_start: '2015-06-01'
+          date_end: '2019-05-01'
+          description: ''
     design:
       columns: '2'
   - block: accomplishments
