@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: dissp
+url_pdf: 'http://shui18.github.io/paper/kai/dissp.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
