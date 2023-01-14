@@ -70,6 +70,6 @@ By the end of this course, students will know how to:
 - test2[click here](https://lxy.nau.edu.cn/_s26/2021/1029/c1039a87015/page.psp)
 ## License
 
-Copyright 2016-present [George Cushen](https://georgecushen.com).
+Copyright 2016-present [XXXX](https://lxy.nau.edu.cn/_s26/2021/1029/c1039a87015/page.psp).
 
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
+Released under the [xxx](https://lxy.nau.edu.cn/_s26/2021/1029/c1039a87015/page.psp) license.
