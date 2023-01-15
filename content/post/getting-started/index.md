@@ -31,13 +31,13 @@ image:
 authors:
   - admin
 
-tags:
-  - Academic
-  - 开源
+# tags:
+#  - Academic
+#  - 开源
 
-categories:
-  - Demo
-  - 教程
+# categories:
+#  - Demo
+#  - 教程
 ---
 
 ## Most recently taught
@@ -66,9 +66,17 @@ By the end of this course, students will know how to:
 
 ### [Click here link to Lectures](https://lxy.nau.edu.cn/_s26/2021/1029/c1039a87015/page.psp)
 
-- **[test](https://lxy.nau.edu.cn/_s26/2021/1029/c1039a87015/page.psp)🦄✨**
-- test2[click here](https://lxy.nau.edu.cn/_s26/2021/1029/c1039a87015/page.psp)
-## License
+- **Error Analysis[PDF](https://lxy.nau.edu.cn/_s26/2021/1029/c1039a87015/page.psp)🦄✨**
+- Divided Differences[click here](https://lxy.nau.edu.cn/_s26/2021/1029/c1039a87015/page.psp)
+- Numerical Differentiation[PDF](https://lxy.nau.edu.cn/_s26/2021/1029/c1039a87015/page.psp)
+- Numerical Integration
+- Composite Rules
+- Richardson Extrapolation
+- Gauss Quadrature
+- Fixed-Point Iteration
+- Newton's Method
+- The Secant Method
+## LicenseRichardson Extrapolation
 
 Copyright 2016-present [XXXX](https://lxy.nau.edu.cn/_s26/2021/1029/c1039a87015/page.psp).
 
