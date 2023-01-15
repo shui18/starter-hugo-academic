@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'http://shui18.github.io/paper/kai/Structure-Preserving Algorithms for Oscillatory Differential Equations II.pdf'
+url_pdf: 'http://shui18.github.io/paper/kai/book2015.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
