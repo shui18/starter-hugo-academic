@@ -5,9 +5,9 @@ title: 'Structure-Preserving Algorithms for Oscillatory Differential Equations I
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - X. Wu  
+  - XinYuan Wu  
   - admin
-  - W. Shi
+  - Wei Shi
 
 # Author notes (optional)
 #author_notes:
