@@ -73,7 +73,7 @@ email: 'laukai520@163.com'
 highlight_name: true
 ---
 
-I am an associate professor at Nanjing Audit University at the school of Statistics and Data Science. I received a PhD in Computational Mathematics from Nanjing University, a MEng in Applied Mathematics and a BSc in Mathematics and Applied Mathematics from China University of Petroleum (East China). 
+I am an associate professor at Nanjing Audit University at the school of Statistics and Data Science. I received a PhD in Computational Mathematics from Nanjing University, a MSc in Applied Mathematics and a BSc in Mathematics and Applied Mathematics from China University of Petroleum (East China). 
 
 My current research interests focus on geometric numerical integration. Specifically, I am interested in structure-preserving numerical algorithms of differential equations. I have also worked on iterative techniques for solving problems in numerical linear algebra.
 
