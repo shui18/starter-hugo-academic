@@ -125,7 +125,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: laukai520@163.com
 #      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+#      appointment_url: 'https://calendly.com'
       address:
         street: 86 Yushan West Road
         city: Nanjing
@@ -136,17 +136,7 @@ sections:
       directions: 位育楼307
       office_hours:
         - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'      
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+        - 'Wednesday 09:00 to 10:00'     
     design:
       columns: '2'
 ---
