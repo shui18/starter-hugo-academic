@@ -7,7 +7,7 @@ date: "2018-12-01T00:00:00Z"
 doi: "10.1016/j.cam.2018.04.038"
 
 
-publication: "*J. Comput. Appl. Math.,343,206-216*"
+publication: "*J. Comput. Math.,343,206-216*"
 
 
 abstract: The multi-frequency and multi-dimensional adapted Runge-Kutta-Nystr¨om (ARKN)
@@ -28,7 +28,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: uploads/JCAM2018.pdf
+url_pdf: uploads/JCM2015.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
