@@ -1,31 +1,19 @@
 ---
 title: "Structure-Preserving Algorithms for Oscillatory Differential Equations II"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
 authors:
-  - XinYuan Wu  
-  - admin
-  - Wei Shi
-
-# Author notes (optional)
-# author_notes:
-#  - 'Equal contribution'
-#  - 'Equal contribution'
-
-date: '2015-01-01T00:00:00Z'
+- XinYuan Wu  
+- admin
+- Wei Shi
+date: "2015-01-01T00:00:00Z"
 doi: ''
 
-publication: In *Springer-Verlag*
+publication: "In *Springer-Verlag*"
 
 abstract: Includes recent advances in the ARKN methods, ERKN methods, two-step ERKN methods, trigonometric Fourier collocation methods, energy-preserving methods etc. Includes new and important development of the error analysis for ERKN methods and two-step ERKN methods. Lays emphasis on the structure-preserving properties and computational efficiency of newly developed integrators
 
 
 tags: 
   - Books Chapters
-
-# Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
