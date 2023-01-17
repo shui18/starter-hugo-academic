@@ -5,7 +5,7 @@ authors:
 - admin
 - Wei Shi
 date: "2015-01-01T00:00:00Z"
-doi: 'https://link.springer.com/book/10.1007/978-3-642-35338-3'
+doi: '10.1007/978-3-642-35338-3'
 
 publication: "In *Springer-Verlag*"
 
