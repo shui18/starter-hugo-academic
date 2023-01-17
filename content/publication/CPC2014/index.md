@@ -10,7 +10,7 @@ doi: "10.1016/j.cpc.2014.04.001"
 publication: "*Comput. Phys. Commun.,185,1999-2007*"
 
 
-abstract: In this paper, we present a new analytical formula for the Cauchy problem of the linear inhomogeneous wave equation with variable coefficients. The formula gives a much simpler solution than that given by the classical Poisson formula. The derivation is based on Duhamel’s Principle and the theory of pseudodifferential operator. An example is solved by using the formula to illustrate the feasibility.
+abstract: Based on B-series theory, the order conditions of the multidimensional ARKN methods are presented for the general multi-frequency and multidimensional oscillatory second-order initial value problems by Wu et al. (2009). These multidimensional ARKN methods exactly integrate the multi-frequency and multidimensional unperturbed oscillators. In this paper, we pay attention to the analysis of the concrete multidimensional ARKN methods for the general multi-frequency oscillatory second-order initial value problems whose right-hand side functions depend on both y and y′ (the class of physical problems which fall within its scope is broader). Numerical experiments are carried out to show that the new multidimensional ARKN methods are more efficient compared with some well-known methods for dealing with the oscillatory problems in the scientific literature.
 
 tags:
 - Journal Papers
