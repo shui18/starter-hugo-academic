@@ -27,7 +27,7 @@ image:
    preview_only: false
 
 
-url_pdf: uploads/book2015.pdf
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
