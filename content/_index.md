@@ -114,23 +114,14 @@ sections:
       text: |-
         {{< gallery album="demo" >}}
     design:
-      columns: '1'
+      columns: '1'   
+      
   - block: contact
     id: contact
     content:
       title: Contact
       subtitle: ''   
-      text: ''
-      email: laukai520@163.com
-      address:
-        street: 86 Yushan West Road
-        city: Nanjing
-        region: Pukou District
-        postcode: '211815'
-      directions: 位育楼307
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'     
+      email: laukai520@163.com   
     design:
       columns: '2'
 ---
