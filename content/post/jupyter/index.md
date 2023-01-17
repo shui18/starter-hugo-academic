@@ -1,77 +1,96 @@
 ---
 title: Calculus
-subtitle: Learn how to blog in Academic using Jupyter notebooks
-summary: Learn how to blog in Academic using Jupyter notebooks
+subtitle: This course covers error analysis, floating-point arithmetic, polynomial interpolation, and numerical differentiation and integration.
+
+# Summary for listings and search engines
+summary: 
+
+# Link this post with a project
+projects: []
+
+# Date published
+date: '2020-12-13T00:00:00Z'
+
+# Date updated
+lastmod: '2020-12-13T00:00:00Z'
+
+# Is this an unpublished draft?
+draft: false
+
+# Show this page in the Featured widget?
+featured: false
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  focal_point: ''
+  placement: 2
+  preview_only: false
+
 authors:
   - admin
-tags: []
-categories: []
-projects: []
-date: '2019-02-05T00:00:00Z'
-lastMod: '2019-09-05T00:00:00Z'
-image:
-  caption: ''
-  focal_point: ''
+
+# tags:
+#  - Academic
+#  - 开源
+
+# categories:
+#  - Demo
+#  - 教程
 ---
 
-```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-```
+## Most recently taught
+- Spring 2022,
+- Spring 2021,
+- Fall 2019,
+- Spring 2019.
 
-![png](./index_1_0.png)
+## Course Description
 
-```python
-print("Welcome to Academic!")
-```
+This course covers error analysis, floating-point arithmetic, polynomial interpolation, and numerical differentiation and integration.
 
-    Welcome to Academic!
+## Textbooks
+The required textbook is Explorations in Numerical Analysis by James V. Lambers and Amber C. Sumner. Additional reading material will be listed [here](https://lxy.nau.edu.cn/_s26/2021/1029/c1039a87015/page.psp).
 
-## Install Python and JupyterLab
+## Coursework
+The coursework will consist of written homework assignments, a midterm exam, and a comprehensive final exam.
 
-[Install Anaconda](https://www.anaconda.com/distribution/#download-section) which includes Python 3 and JupyterLab.
+## Grading
+The overall grade for the course is determined by weighting each of the homework assignments and exams as follows:
+- Homework and Quizzes	30%
+- Midterm Exam	30%
+- Final Exam	40%
 
-Alternatively, install JupyterLab with `pip3 install jupyterlab`.
+Letter grades are based on a ``straight scale''. If a student is unable to complete the course due to circumstances beyond his or her control, the instructor may assign a grade of incomplete.
 
-## Create or upload a Jupyter notebook
+## Outcomes
+By the end of this course, students will know how to:
+- Write programs in MATLAB, including those that implement numerical algorithms
+- Determine whether a mathematical problem is well- or ill-conditioned
+- Determine whether a mathematical expression is susceptible to issues with floating-point arithmetic, and if so, modify the expression to remedy such issues
+- Construct, update, and analyze the accuracy of a polynomial or piecewise polynomial that interpolates given data points
+- Construct and analyze the accuracy of numerical methods for approximating a derivative of a function at a given point, or a definite integral of a function over an interval
+- Use iteration to compute a solution of a nonlinear equation
+- Select the most effective numerical method for a given problem based on an understanding of the advantages and disadvantages of the various methods presented, and general principles of error analysis.
 
-Run the following commands in your Terminal, substituting `<MY-WEBSITE-FOLDER>` and `<SHORT-POST-TITLE>` with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:
 
-```bash
-mkdir -p <MY-WEBSITE-FOLDER>/content/post/<SHORT-POST-TITLE>/
-cd <MY-WEBSITE-FOLDER>/content/post/<SHORT-POST-TITLE>/
-jupyter lab index.ipynb
-```
 
-The `jupyter` command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.
+### [Click here link to Lectures](https://lxy.nau.edu.cn/_s26/2021/1029/c1039a87015/page.psp)
 
-## Edit your post metadata
+- **Error Analysis[PDF](https://lxy.nau.edu.cn/_s26/2021/1029/c1039a87015/page.psp)🦄✨**
+- Divided Differences[click here](https://lxy.nau.edu.cn/_s26/2021/1029/c1039a87015/page.psp)
+- Numerical Differentiation[PDF](https://lxy.nau.edu.cn/_s26/2021/1029/c1039a87015/page.psp)
+- Numerical Integration
+- Composite Rules
+- Richardson Extrapolation
+- Gauss Quadrature
+- Fixed-Point Iteration
+- Newton's Method
+- The Secant Method
+- 
+## LicenseRichardson Extrapolation
 
-The first cell of your Jupter notebook will contain your post metadata ([front matter](https://sourcethemes.com/academic/docs/front-matter/)).
+Copyright 2016-present [XXXX](https://lxy.nau.edu.cn/_s26/2021/1029/c1039a87015/page.psp).
 
-In Jupter, choose _Markdown_ as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:
-
-```
----
-title: My post's title
-date: 2019-09-01
-
-# Put any other Academic metadata here...
----
-```
-
-Edit the metadata of your post, using the [documentation](https://sourcethemes.com/academic/docs/managing-content) as a guide to the available options.
-
-To set a [featured image](https://sourcethemes.com/academic/docs/managing-content/#featured-image), place an image named `featured` into your post's folder.
-
-For other tips, such as using math, see the guide on [writing content with Academic](https://wowchemy.com/docs/content/writing-markdown-latex/).
-
-## Convert notebook to Markdown
-
-```bash
-jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
-```
-
-## Example
-
-This post was created with Jupyter. The orginal files can be found at https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter
+Released under the [xxx](https://lxy.nau.edu.cn/_s26/2021/1029/c1039a87015/page.psp) license.
