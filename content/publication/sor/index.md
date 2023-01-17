@@ -21,7 +21,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0893965919304288
+url_pdf: uploads/AML2020.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
