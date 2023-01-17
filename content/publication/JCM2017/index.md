@@ -1,5 +1,5 @@
 ---
-title: "A LINEARLY-FITTED CONSERVATIVE (DISSIPATIVE) SCHEME FOR EFFICIENTLY SOLVING CONSERVATIVE (DISSIPATIVE) NONLINEAR WAVE PDES"
+title: "A linearly-fitted conservative (dissipative) scheme for efficiently solving conservative (dissipative) nonlinear wave PDEs"
 authors:
 - admin
 - Xinyuan Wu
