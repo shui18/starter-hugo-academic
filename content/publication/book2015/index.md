@@ -21,6 +21,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
+image:
+   caption: Cover
+   focal_point: Smart
+   preview_only: false
+
+
 url_pdf: uploads/book2015.pdf
 url_code: ''
 url_dataset: ''
@@ -32,10 +38,5 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
- image:
-  caption: 'Cover'
-  focal_point: Smart
-#  preview_only: false
-
 
 ---
