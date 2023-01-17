@@ -120,21 +120,16 @@ sections:
     content:
       title: Contact
       subtitle: ''   
-      # Contact (add or remove contact options as necessary)
       email: laukai520@163.com
-#      phone: 888 888 88 88
-#      appointment_url: 'https://calendly.com'
       address:
         street: 86 Yushan West Road
         city: Nanjing
         region: Pukou District
         postcode: '211815'
-#        country: United States
-#        country_code: US
       directions: 位育楼307
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'     
-    design:
-      columns: '2'
+     design:
+       columns: '2'
 ---
