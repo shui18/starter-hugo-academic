@@ -119,8 +119,7 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle: ''     
-      text: 
+      subtitle: ''   
       # Contact (add or remove contact options as necessary)
       email: laukai520@163.com
 #      phone: 888 888 88 88
