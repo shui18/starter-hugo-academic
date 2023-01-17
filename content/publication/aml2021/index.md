@@ -20,7 +20,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: uploads/aml.pdf
+url_pdf: uploads/AML2021.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
