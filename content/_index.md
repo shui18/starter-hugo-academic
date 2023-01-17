@@ -120,6 +120,7 @@ sections:
     content:
       title: Contact
       subtitle: ''   
+      text: ''
       email: laukai520@163.com
       address:
         street: 86 Yushan West Road
