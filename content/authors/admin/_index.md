@@ -27,6 +27,7 @@ bio: Nanjing Audit University
 # Interests to show in About widget
 interests:
   - Geometric Numerical Integration
+  - Numerical Linear Algebra
 
 
 # Education to show in About widget
