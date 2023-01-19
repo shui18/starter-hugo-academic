@@ -1,7 +1,6 @@
 ---
 title: 微积分
-subtitle: This course covers error analysis, floating-point arithmetic, polynomial interpolation, and numerical differentiation and integration.
-
+subtitle: ''
 # Summary for listings and search engines
 summary: 
 
