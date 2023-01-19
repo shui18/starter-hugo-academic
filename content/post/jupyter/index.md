@@ -48,12 +48,12 @@ authors:
 ## Link to Lectures
 
 - 第1章 [函数](ch1.pdf)
-- 第2章 [极限与连续](uploads/ch2.pdf)
-- 第3章 [导数与微分](uploads/ch3.pdf)
-- 第4章 [中值定理和导数的应用](uploads/ch4.pdf)
-- 第5章 [不定积分](uploads/ch5.pdf)
-- 第6章 [定积分](uploads/ch6.pdf)
-- 第7章 [多元函数微积分学](uploads/ch7.pdf)
-- 第8章 [微分方程初步](uploads/ch8.pdf)
-- 第9章 [差分方程](uploads/ch9.pdf)
+- 第2章 [极限与连续](ch2.pdf)
+- 第3章 [导数与微分](ch3.pdf)
+- 第4章 [中值定理和导数的应用](ch4.pdf)
+- 第5章 [不定积分](ch5.pdf)
+- 第6章 [定积分](ch6.pdf)
+- 第7章 [多元函数微积分学](ch7.pdf)
+- 第8章 [微分方程初步](ch8.pdf)
+- 第9章 [差分方程](ch9.pdf)
 
