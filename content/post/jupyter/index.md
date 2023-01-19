@@ -57,8 +57,3 @@ authors:
 - 第8章 [微分方程初步](uploads/ch8.pdf)
 - 第9章 [差分方程](uploads/ch9.pdf)
 
-## LicenseRichardson Extrapolation
-
-# Copyright 2016-present [XXXX](https://lxy.nau.edu.cn/_s26/2021/1029/c1039a87015/page.psp).
-
-# Released under the [xxx](https://lxy.nau.edu.cn/_s26/2021/1029/c1039a87015/page.psp) license.
