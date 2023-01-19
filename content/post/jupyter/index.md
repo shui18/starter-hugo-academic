@@ -78,7 +78,7 @@ By the end of this course, students will know how to:
 
 ### [Click here link to Lectures](https://lxy.nau.edu.cn/_s26/2021/1029/c1039a87015/page.psp)
 
-- **Error Analysis[PDF](https://lxy.nau.edu.cn/_s26/2021/1029/c1039a87015/page.psp)🦄✨**
+- 第一章[函数](uploads/resume.pdf)🦄✨**
 - Divided Differences[click here](https://lxy.nau.edu.cn/_s26/2021/1029/c1039a87015/page.psp)
 - Numerical Differentiation[PDF](https://lxy.nau.edu.cn/_s26/2021/1029/c1039a87015/page.psp)
 - Numerical Integration
