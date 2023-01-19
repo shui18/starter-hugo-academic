@@ -34,9 +34,9 @@ authors:
 #  - Academic
 
 
-# categories:
+ categories:
 #  - Demo
-#  - 教程
+  - 课程
 ---
 
 ## Most recently taught
@@ -56,4 +56,7 @@ authors:
 - 第7章 [多元函数微积分学](ch7.pdf)
 - 第8章 [微分方程初步](ch8.pdf)
 - 第9章 [差分方程](ch9.pdf)
+
+## 习题解答
+- 第1章 [函数](chap1.pdf)
 
