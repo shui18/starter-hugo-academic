@@ -1,5 +1,5 @@
 ---
-title: Calculus
+title: 微积分
 subtitle: This course covers error analysis, floating-point arithmetic, polynomial interpolation, and numerical differentiation and integration.
 
 # Summary for listings and search engines
