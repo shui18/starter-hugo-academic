@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Associate professor of Nanjing Audit University
+role: Associate professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
