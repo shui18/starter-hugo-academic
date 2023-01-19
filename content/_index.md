@@ -108,6 +108,7 @@ sections:
   
   
   - block: markdown
+    id: gallery
     content:
       title: Gallery
       subtitle: ''
