@@ -47,7 +47,7 @@ authors:
 
 ## Link to Lectures
 
-- 第1章 [函数](uploads/ch1.pdf)
+- 第1章 [函数](ch1.pdf)
 - 第2章 [极限与连续](uploads/ch2.pdf)
 - 第3章 [导数与微分](uploads/ch3.pdf)
 - 第4章 [中值定理和导数的应用](uploads/ch4.pdf)
