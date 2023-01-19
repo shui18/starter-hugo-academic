@@ -33,9 +33,7 @@ authors:
 # tags:
 #  - Academic
 
-
- categories:
-#  - Demo
+categories:
   - 课程
 ---
 
