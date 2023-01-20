@@ -12,8 +12,6 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:  
-    design:
-      columns: '2'
   - block: experience
     content:
       title: Experience
@@ -51,7 +49,7 @@ sections:
           date_end: '2019-05-01'
           description: ''    
     design:
-      columns: '4'  
+      columns: '2'  
   - block: collection
     id: teaching
     content:
