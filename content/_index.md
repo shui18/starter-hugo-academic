@@ -51,7 +51,7 @@ sections:
           date_end: '2019-05-01'
           description: ''    
     design:
-      columns: '1'  
+      columns: '4'  
   - block: collection
     id: teaching
     content:
