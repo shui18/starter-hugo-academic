@@ -51,7 +51,7 @@ sections:
     design:
       columns: '2'  
   - block: collection
-    id: posts
+    id: teaching
     content:
       title: Undergraduate Teaching
       subtitle: ''
@@ -78,7 +78,7 @@ sections:
       view: compact
       columns: '2'
   - block: portfolio
-    id: projects
+    id: publications
     content:
       title: Full list of publications
       filters:
