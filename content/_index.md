@@ -47,10 +47,9 @@ sections:
           location: Nanjing
           date_start: '2015-06-01'
           date_end: '2019-05-01'
-          description: ''
-    count: 1
+          description: ''    
     design:
-      columns: '2'  
+      columns: '3'  
   - block: collection
     id: teaching
     content:
@@ -71,7 +70,7 @@ sections:
         exclude_past: false
         publication_type: ""
       # Choose how many pages you would like to offset by
-      offset: 1
+      offset: 0
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
