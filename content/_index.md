@@ -48,6 +48,7 @@ sections:
           date_start: '2015-06-01'
           date_end: '2019-05-01'
           description: ''
+    count: 1
     design:
       columns: '2'  
   - block: collection
@@ -57,7 +58,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 1
+      count: 5
       # Filter on criteria
       filters:
         folders:
@@ -70,7 +71,7 @@ sections:
         exclude_past: false
         publication_type: ""
       # Choose how many pages you would like to offset by
-      offset: 0
+      offset: 1
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
@@ -97,8 +98,7 @@ sections:
         - name: Journal Papers
           tag: Journal Papers
         - name: Books Chapters
-          tag: Books Chapters
-      count: 1
+          tag: Books Chapters     
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'      
