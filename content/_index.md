@@ -11,32 +11,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      text:  |-
-        items:
-          - title: Associate Professor
-            company: Nanjing Audit University
-            company_url: ''
-            company_logo: ''
-            location: Nanjing
-            date_start: '2021-09-01'
-            date_end: ''
-            description: ''
-          - title: Associate Professor
-            company: Nanjing University of Finance and Economics
-            company_url: ''
-            company_logo: ''
-            location: Nanjing
-            date_start: '2019-06-01'
-            date_end: '2021-08-01'
-            description: ''
-          - title: Lecturer
-            company: Nanjing University of Finance and Economics
-            company_url: ''
-            company_logo: ''
-            location: Nanjing
-            date_start: '2015-06-01'
-            date_end: '2019-05-01'
-            description: ''
+
   - block: experience
     content:
       title: Experience
